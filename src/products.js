@@ -48,13 +48,13 @@ export const PRODUCTS=[
         productImage:product6,
     },
     {
-        id:2,
+        id:7,
         productName: "T-Shirt",
         price: 99.0,
         productImage:product7,
     },
     {
-        id:2,
+        id:8,
         productName: "Hat",
         price: 199.0,
         productImage:product8,
